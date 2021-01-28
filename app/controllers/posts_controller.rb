@@ -11,6 +11,7 @@ class PostsController < ApplicationController
     end 
   end
   def new
-    
+  end
+  def create
   end
 end
